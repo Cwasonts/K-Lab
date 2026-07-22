@@ -40,8 +40,8 @@
         "other_text_upright": false,
         "pads": {
           "drill": 0.0,
-          "height": 2.0,
-          "width": 4.0
+          "height": 0.3048,
+          "width": 0.7366
         },
         "silk_line_width": 0.1,
         "silk_text_italic": false,
@@ -524,7 +524,7 @@
     "last_paths": {
       "idf": "",
       "netlist": "",
-      "plot": "Gerbs/",
+      "plot": "/Users/davidhu/Desktop/",
       "specctra_dsn": "",
       "vrml": ""
     },
