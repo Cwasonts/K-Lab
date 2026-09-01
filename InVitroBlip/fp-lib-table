@@ -1,0 +1,4 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "InVitro") (type "KiCad") (uri "${KIPRJMOD}/InVitro.pretty") (options "") (descr ""))
+)

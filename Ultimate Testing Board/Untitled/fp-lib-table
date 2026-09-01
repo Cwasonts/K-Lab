@@ -1,0 +1,4 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "Krishnan") (type "KiCad") (uri "${KIPRJMOD}/Krishnan.pretty") (options "") (descr ""))
+)
