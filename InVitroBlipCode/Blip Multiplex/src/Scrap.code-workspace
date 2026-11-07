@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../../Scrap"
+		},
+		{
+			"name": "CrackedDiode",
+			"path": "../../CrackedDiode"
+		},
+		{
+			"name": "Blip Multiplex",
+			"path": ".."
+		}
+	],
+	"settings": {}
+}
